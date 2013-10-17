@@ -1,6 +1,3 @@
-Lightweight utility for creating simple Samsung Smart TV Apps
-=============================================================
-
 This might be helpful if you don't feel like downloading an Eclipse variant just to pack three files into a ZIP.
 
 The provided example simply displays a website in fullscreen.
