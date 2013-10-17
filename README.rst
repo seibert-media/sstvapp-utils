@@ -7,10 +7,10 @@ The provided example simply displays a website in fullscreen.
 3. edit ``widgetlist.xml`` and replace ``10.1.2.3`` with the IP of your development machine (must be reachable from TV)
 4. edit ``myapp/index.html`` to your heart's content
 5. run ``deploy.sh`` and leave it running (it will start a web server on port 80)
-6. in "Samsung Apps" on the TV, login to your `developer account <http://bugmenot.com/view/samsungdforum.com/>`_.
+6. in "Samsung Apps" on the TV, login to your `developer account <http://bugmenot.com/view/samsungdforum.com/>`_
 7. log out again
 8. log in with email ``develop`` and no password
-9. you may need to repeat the previous three steps multiple times to get rid of ``ERROR_DEVELOPMENT_002`` (`see also <http://www.youtube.com/watch?v=HppJHKwCGCo>`_.)
+9. you may need to repeat the previous three steps multiple times to get rid of ``ERROR_DEVELOPMENT_002`` (`see also <http://www.youtube.com/watch?v=HppJHKwCGCo>`_)
 10. go to "More Apps" in "Samsung Apps"
 11. go to "Options" on the upper right
 12. click "IP Setting" (if it doesn't appear in the menu, make sure you're signed into the ``develop`` account)
